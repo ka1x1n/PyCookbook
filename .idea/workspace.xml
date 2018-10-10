@@ -2,11 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb38e8e1-3765-49a8-a4ae-3f46995f359c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/chapter01/1.10从序列中移除重复项目且保持元素间顺序不变.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/chapter01/1.7让字典保持有序.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/chapter01/1.8与字典有关的计算问题.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/chapter01/1.9在两个字典中寻找相同点.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/chapter01/1.10从序列中移除重复项目且保持元素间顺序不变.py" afterPath="$PROJECT_DIR$/chapter01/10.从序列中移除重复项目且保持元素间顺序不变.py" />
+      <change beforePath="$PROJECT_DIR$/chapter01/1.1将序列分解为单独的变量.py" afterPath="$PROJECT_DIR$/chapter01/1.将序列分解为单独的变量.py" />
+      <change beforePath="$PROJECT_DIR$/chapter01/1.2从任意长度的可迭代对象中分解元素.py" afterPath="$PROJECT_DIR$/chapter01/2.从任意长度的可迭代对象中分解元素.py" />
+      <change beforePath="$PROJECT_DIR$/chapter01/1.3保存最后N个元素.py" afterPath="$PROJECT_DIR$/chapter01/3.保存最后N个元素.py" />
+      <change beforePath="$PROJECT_DIR$/chapter01/1.4找到最大或最小的N个元素.py" afterPath="$PROJECT_DIR$/chapter01/4.找到最大或最小的N个元素.py" />
+      <change beforePath="$PROJECT_DIR$/chapter01/1.5实现优先级队列.py" afterPath="$PROJECT_DIR$/chapter01/5.实现优先级队列.py" />
+      <change beforePath="$PROJECT_DIR$/chapter01/1.6在字典中将键映射到多个值上.py" afterPath="$PROJECT_DIR$/chapter01/6.在字典中将键映射到多个值上.py" />
+      <change beforePath="$PROJECT_DIR$/chapter01/1.7让字典保持有序.py" afterPath="$PROJECT_DIR$/chapter01/7.让字典保持有序.py" />
+      <change beforePath="$PROJECT_DIR$/chapter01/1.8与字典有关的计算问题.py" afterPath="$PROJECT_DIR$/chapter01/8.与字典有关的计算问题.py" />
+      <change beforePath="$PROJECT_DIR$/chapter01/1.9在两个字典中寻找相同点.py" afterPath="$PROJECT_DIR$/chapter01/9.在两个字典中寻找相同点.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,8 +37,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="1.1将序列分解为单独的变量.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter01/1.1将序列分解为单独的变量.py">
+      <file leaf-file-name="1.将序列分解为单独的变量.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter01/1.将序列分解为单独的变量.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="436">
               <caret line="16" column="22" lean-forward="false" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
@@ -42,8 +47,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="1.2从任意长度的可迭代对象中分解元素.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter01/1.2从任意长度的可迭代对象中分解元素.py">
+      <file leaf-file-name="2.从任意长度的可迭代对象中分解元素.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter01/2.从任意长度的可迭代对象中分解元素.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1210">
               <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
@@ -52,8 +57,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="1.3保存最后N个元素.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter01/1.3保存最后N个元素.py">
+      <file leaf-file-name="3.保存最后N个元素.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter01/3.保存最后N个元素.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="616">
               <caret line="22" column="29" lean-forward="false" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
@@ -62,8 +67,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="1.4找到最大或最小的N个元素.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter01/1.4找到最大或最小的N个元素.py">
+      <file leaf-file-name="4.找到最大或最小的N个元素.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter01/4.找到最大或最小的N个元素.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="380">
               <caret line="25" column="16" lean-forward="false" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
@@ -72,48 +77,48 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="1.5实现优先级队列.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter01/1.5实现优先级队列.py">
+      <file leaf-file-name="5.实现优先级队列.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter01/5.实现优先级队列.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="566">
-              <caret line="85" column="16" lean-forward="true" selection-start-line="85" selection-start-column="16" selection-end-line="85" selection-end-column="16" />
+              <caret line="85" column="16" lean-forward="false" selection-start-line="85" selection-start-column="16" selection-end-line="85" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="1.6在字典中将键映射到多个值上.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter01/1.6在字典中将键映射到多个值上.py">
+      <file leaf-file-name="6.在字典中将键映射到多个值上.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter01/6.在字典中将键映射到多个值上.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="202">
-              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="1.7让字典保持有序.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter01/1.7让字典保持有序.py">
+      <file leaf-file-name="7.让字典保持有序.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter01/7.让字典保持有序.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="436">
-              <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+              <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="1.8与字典有关的计算问题.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter01/1.8与字典有关的计算问题.py">
+      <file leaf-file-name="8.与字典有关的计算问题.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter01/8.与字典有关的计算问题.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="464">
-              <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="1.9在两个字典中寻找相同点.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter01/1.9在两个字典中寻找相同点.py">
+      <file leaf-file-name="9.在两个字典中寻找相同点.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter01/9.在两个字典中寻找相同点.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="212">
               <caret line="24" column="32" lean-forward="false" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
@@ -122,11 +127,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="1.10从序列中移除重复项目且保持元素间顺序不变.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chapter01/1.10从序列中移除重复项目且保持元素间顺序不变.py">
+      <file leaf-file-name="10.从序列中移除重复项目且保持元素间顺序不变.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter01/10.从序列中移除重复项目且保持元素间顺序不变.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="26" column="23" lean-forward="false" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+            <state relative-caret-position="380">
+              <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -252,7 +257,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="cookbook" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter01/1.10从序列中移除重复项目且保持元素间顺序不变.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter01/10.从序列中移除重复项目且保持元素间顺序不变.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -271,7 +276,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="cookbook" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter01/1.5实现优先级队列.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter01/5.实现优先级队列.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -290,7 +295,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="cookbook" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter01/1.7让字典保持有序.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter01/7.让字典保持有序.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -309,7 +314,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="cookbook" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter01/1.8与字典有关的计算问题.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter01/8.与字典有关的计算问题.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -328,7 +333,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="cookbook" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter01/1.9在两个字典中寻找相同点.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter01/9.在两个字典中寻找相同点.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -369,7 +374,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="34" width="1920" height="1046" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979852" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -377,7 +381,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33037695" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18072917" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18072917" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -404,7 +408,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/chapter01/1.1将序列分解为单独的变量.py">
+    <entry file="file://$PROJECT_DIR$/chapter01/1.将序列分解为单独的变量.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="448">
           <caret line="16" column="22" lean-forward="false" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
@@ -412,7 +416,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter01/1.2从任意长度的可迭代对象中分解元素.py">
+    <entry file="file://$PROJECT_DIR$/chapter01/2.从任意长度的可迭代对象中分解元素.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1288">
           <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
@@ -420,7 +424,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter01/1.3保存最后N个元素.py">
+    <entry file="file://$PROJECT_DIR$/chapter01/3.保存最后N个元素.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="616">
           <caret line="22" column="29" lean-forward="false" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
@@ -428,7 +432,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter01/1.4找到最大或最小的N个元素.py">
+    <entry file="file://$PROJECT_DIR$/chapter01/4.找到最大或最小的N个元素.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="700">
           <caret line="25" column="16" lean-forward="false" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
@@ -436,7 +440,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter01/1.5实现优先级队列.py">
+    <entry file="file://$PROJECT_DIR$/chapter01/5.实现优先级队列.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2156">
           <caret line="77" column="26" lean-forward="false" selection-start-line="77" selection-start-column="26" selection-end-line="77" selection-end-column="26" />
@@ -468,7 +472,7 @@
     <entry file="file://$PROJECT_DIR$/chapter1-数据结构和算法/1.5实现优先级队列.py" />
     <entry file="file://$PROJECT_DIR$/chapter1-数据结构和算法/1.6在字典中将键映射到多个值上.py" />
     <entry file="file://$PROJECT_DIR$/test.py" />
-    <entry file="file://$PROJECT_DIR$/chapter01/1.1将序列分解为单独的变量.py">
+    <entry file="file://$PROJECT_DIR$/chapter01/1.将序列分解为单独的变量.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -476,31 +480,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter01/1.5实现优先级队列.py">
+    <entry file="file://$PROJECT_DIR$/chapter01/5.实现优先级队列.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="566">
-          <caret line="85" column="16" lean-forward="true" selection-start-line="85" selection-start-column="16" selection-end-line="85" selection-end-column="16" />
+          <caret line="85" column="16" lean-forward="false" selection-start-line="85" selection-start-column="16" selection-end-line="85" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter01/1.6在字典中将键映射到多个值上.py">
+    <entry file="file://$PROJECT_DIR$/chapter01/6.在字典中将键映射到多个值上.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="202">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter01/1.7让字典保持有序.py">
+    <entry file="file://$PROJECT_DIR$/chapter01/7.让字典保持有序.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="436">
-          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter01/1.1将序列分解为单独的变量.py">
+    <entry file="file://$PROJECT_DIR$/chapter01/1.将序列分解为单独的变量.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="436">
           <caret line="16" column="22" lean-forward="false" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
@@ -508,7 +512,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter01/1.2从任意长度的可迭代对象中分解元素.py">
+    <entry file="file://$PROJECT_DIR$/chapter01/2.从任意长度的可迭代对象中分解元素.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1210">
           <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
@@ -516,7 +520,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter01/1.3保存最后N个元素.py">
+    <entry file="file://$PROJECT_DIR$/chapter01/3.保存最后N个元素.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="616">
           <caret line="22" column="29" lean-forward="false" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
@@ -524,7 +528,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter01/1.4找到最大或最小的N个元素.py">
+    <entry file="file://$PROJECT_DIR$/chapter01/4.找到最大或最小的N个元素.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
           <caret line="25" column="16" lean-forward="false" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
@@ -532,10 +536,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter01/1.8与字典有关的计算问题.py">
+    <entry file="file://$PROJECT_DIR$/chapter01/8.与字典有关的计算问题.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="464">
-          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -548,7 +552,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter01/1.9在两个字典中寻找相同点.py">
+    <entry file="file://$PROJECT_DIR$/chapter01/9.在两个字典中寻找相同点.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="212">
           <caret line="24" column="32" lean-forward="false" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
@@ -556,10 +560,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter01/1.10从序列中移除重复项目且保持元素间顺序不变.py">
+    <entry file="file://$PROJECT_DIR$/chapter01/10.从序列中移除重复项目且保持元素间顺序不变.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="26" column="23" lean-forward="false" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+        <state relative-caret-position="380">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
           <folding />
         </state>
       </provider>
