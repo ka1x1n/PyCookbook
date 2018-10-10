@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb38e8e1-3765-49a8-a4ae-3f46995f359c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/cookbook.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/chapter01/1.1将序列分解为单独的变量.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/cookbook.iml" afterPath="$PROJECT_DIR$/.idea/cookbook.iml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,18 +20,7 @@
     <SUITE FILE_PATH="coverage/cookbook$1_3N.coverage" NAME="1.3保存最后N个元素 Coverage Results" MODIFIED="1539051221853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter1-数据结构和算法" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="1.1将序列分解为单独的变量.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chapter01/1.1将序列分解为单独的变量.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -98,11 +83,6 @@
             <path>
               <item name="cookbook" type="b2602c69:ProjectViewProjectNode" />
               <item name="cookbook" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cookbook" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cookbook" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter01" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
